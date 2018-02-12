@@ -7,7 +7,7 @@
 > cd books
 ```
 
-## Contents
+# Contents
 
 ## Natural Language Processing
 
@@ -23,11 +23,11 @@ Tiếng Việt
 
 * [Bài giảng Học máy](https://github.com/magizbox/books/tree/master/files/hoc_may_nnq_2011) - (Nguyễn Nhật Quang 2011)
 
-### Programming
+## Programming
 
 * [Eloquent Javascript](https://github.com/magizbox/books/tree/master/files/eloquent_javascript) - (Marijn Haverbeke 2011)
 
-### Mathematics
+## Mathematics
 
 Tiếng Việt
 
