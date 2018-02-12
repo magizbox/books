@@ -17,6 +17,7 @@ Tiếng Việt
 
 ## Machine Learning
 
+* [CS109: Probability for Computer Scientists](https://github.com/magizbox/books/tree/master/files/cs109_probability_for_computer_scientists) - (Chris Piech 2017)
 * [Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf) - (Ian Goodfellow 2016)
 
 Tiếng Việt
@@ -25,4 +26,4 @@ Tiếng Việt
 
 ## Natural Language Processing
 
-* [Speech and Language Processing, 2nd Edition](https://github.com/rain1024/slp2-pdf) - (Daniel Jurafsky, James H. Martin 2009) [[Amazon](https://www.amazon.com/Speech-Language-Processing-Daniel-Jurafsky/dp/0131873210)]
+* [Speech and Language Processing, 2nd Edition](https://github.com/rain1024/slp2-pdf) - (Daniel Jurafsky, James H. Martin 2009) [[amazon](https://www.amazon.com/Speech-Language-Processing-Daniel-Jurafsky/dp/0131873210)]
