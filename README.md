@@ -17,7 +17,7 @@
 
 * [CS109: Probability for Computer Scientists](https://github.com/magizbox/books/tree/master/files/cs109_probability_for_computer_scientists) - (Chris Piech 2017)
 * [Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf) - (Ian Goodfellow 2016)
-* [An Introduction to Statistical Learning](https://github.com/magizbox/books/tree/master/files/an_introduction_to_statistical_learning/ISLR.pdf) - (Robert Tibshirani and Trevor Hastie 2013)
+* [An Introduction to Statistical Learning](https://github.com/magizbox/books/tree/master/files/an_introduction_to_statistical_learning/) - (Robert Tibshirani and Trevor Hastie 2013)
 * [Probabilistic Graphical Models](https://github.com/magizbox/books/tree/master/files/probablistic_graphical_models) - (Daphne Koller 2009)
 
 Tiếng Việt
